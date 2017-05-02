@@ -19,7 +19,7 @@ namespace InfoRet
             {
                 Directory.CreateDirectory(path);
             }
-            //Console.Write(path);
+            Console.Write(path);
             
         }
 
